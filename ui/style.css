@@ -3,7 +3,8 @@ body {
     background-color: lightgrey;
     margin-top: 75px;
     border: 1px;
-    border-style: solid; 
+    border-style: solid;
+    border-color: yellow;
 }
 
 .center {
